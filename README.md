@@ -23,10 +23,10 @@ O aplicativo possui 4 telas conectadas utilizando os métodos de roteamento do E
 
 ## Telas (prints)
 
-- [imagem da tela de boas-vindas] (file:///Users/joaopedrochiroli/Downloads/tela-inicial.jpeg)
-- [imagem da tela de cadastro] (file:///Users/joaopedrochiroli/Downloads/tela-cadastro.jpeg)
-- [imagem da tela de preview] (file:///Users/joaopedrochiroli/Downloads/tela-cartao.jpeg)
-- [imagem da tela de sucesso] (file:///Users/joaopedrochiroli/Downloads/tela-sucesso.jpeg)
+- ![imagem da tela de boas-vindas](prints/tela-inicial.jpeg)
+- ![imagem da tela de cadastro](prints/tela-cadastro.jpeg)
+- ![imagem da tela de preview](prints/tela-cartao.jpeg)
+- ![imagem da tela de sucesso](prints/tela-sucesso.jpeg)
 
 ## como rodar o projeto
 
