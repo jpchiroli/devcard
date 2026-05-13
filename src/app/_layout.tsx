@@ -4,7 +4,7 @@ export default function Layout() {
   return (
     <Stack
       screenOptions={{
-        headerShown: true, // Aluno geralmente deixa o header padrão aparecer
+        headerShown: true, 
         headerTitle: "Meu App de Cartão",
       }}
     />
