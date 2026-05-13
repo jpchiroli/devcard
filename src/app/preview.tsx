@@ -6,7 +6,7 @@ export default function Preview() {
 
   const numAnos = Number(anos);
   let nivel = 'Júnior';
-  let badgeColor = 'gray'; // 0-2 anos
+  let badgeColor = 'gray'; 
 
   if (numAnos >= 3 && numAnos <= 5) {
     nivel = 'Pleno';
