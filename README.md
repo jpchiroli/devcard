@@ -1,6 +1,6 @@
 # devCard - atividade prática IA2.1
 
-aplicativo desenvolvido cartão de um desenvolvedor mobile, utilizando React Native e Expo Router.
+aplicativo desenvolvido para criar o cartão de um desenvolvedor mobile, utilizando React Native e Expo Router.
 
 **Autor:** João Pedro F. Chiroli
 
